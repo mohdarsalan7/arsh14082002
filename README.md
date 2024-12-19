@@ -1,17 +1,51 @@
-# 💫 About Me:
- Javascript | Typescript | ReactJS | NextJS | NodeJS | ExpressJS | Fullstack Developer 
+# Hi there, I'm Mohd Arsal 🖐️
 
+## About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thesiddiqui7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-arsalan-8b80a9200/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/thesiddiqui0070) 
+I'm a passionate software developer with a keen interest in building innovative solutions and exploring new technologies. I thrive on challenges and constantly set goals for myself to improve my skills and stay updated with the latest trends in the tech world.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arsh14082002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arsh14082002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arsh14082002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌱 I’m currently learning [Technology/Skill you're learning]
+- 👯 I’m looking to collaborate on [Projects or technologies you're interested in]
+- 🤔 I’m looking for help with [Specific area where you need help]
+- 💬 Ask me about [Your areas of expertise or interests]
+- 📫 How to reach me: [Your contact information]
+- ⚡ Fun fact: [A fun fact about you]
 
----
+## 🛠️ Technologies & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 📈 GitHub Stats
+
+![Mohd Arsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdarsalan7&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mohdarsalan7&theme=onedark)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdarsalan7/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/mohdarsalan7)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdarsalan7@example.com)
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🌟 Projects
+
+- [Project 1](https://github.com/mohdarsalan7/project1): A brief description of what this project does.
+- [Project 2](https://github.com/mohdarsalan7/project2): A brief description of what this project does.
+- [Project 3](https://github.com/mohdarsalan7/project3): A brief description of what this project does.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
