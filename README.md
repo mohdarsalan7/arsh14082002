@@ -1,4 +1,4 @@
-# Hi there, I'm Mohd Arsal 🖐️
+# Hi there, I'm Mohd Arsalan 🖐️
 
 ## About Me
 
@@ -25,7 +25,7 @@ I'm a passionate software developer with expertise in JavaScript, specializing i
 
 ## 📈 GitHub Stats
 
-![Mohd Arsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdarsalan7&show_icons=true&theme=radical)
+![Mohd Arsalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdarsalan7&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
